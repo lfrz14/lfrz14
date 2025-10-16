@@ -1,93 +1,61 @@
-# Hi there, I'm Luis Rubio <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# 👋 ¡Hola! Soy Luis Rubio  
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
-## I'm a Computer Science and Engineering 
-
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, Laravel and Vue 3.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to paly video games, party and coffe.
+💻 **Desarrollador Web Full Stack**  
+Apasionado por crear aplicaciones limpias, funcionales y con una gran experiencia de usuario.  
+Trabajo principalmente con **Laravel (PHP)** y **Vue 3 (Composition API)**, conectando front y back para construir soluciones completas y escalables.  
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+## 🚀 Sobre mí
 
-### My best song 🎧
-
-[![Spotify](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v?si=07e2578f12ad4c86)]
-
----
-
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
-
-### Contact with me 📝
-
-[<img align="left" alt="bilgehangecici.site" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
-[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-[<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
-[<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
-
-<br />
+- 🧠 Me gusta aprender constantemente y mejorar mis proyectos día a día.  
+- ⚙️ Experiencia con **Laravel**, **Vue 3**, **Vuetify**, **SQL Server**, **MySQL** y **Laravel Valet**.  
+- 📦 He tomado cursos de **NestJS** y **NestJS con microservicios**.  
+- 🔐 Manejo **JWT (JSON Web Tokens)** para autenticación segura.  
+- 🧩 Experiencia trabajando con **Jira**, **Bitbucket** y **Herd**.  
+- 🎨 Busco mantener un **código limpio, ordenado y reutilizable**.
+- 💬 Abierto a colaborar en proyectos que representen un reto y me ayuden a crecer profesionalmente.  
 
 ---
 
-### Languages and Tools 🛠 
+## 🧰 Tecnologías que uso
 
-![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
-![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
-![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
-![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
-![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
-![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+### 💻 Backend
+- Laravel / PHP  
+- NestJS  
+- MySQL / SQL Server  
+- JWT Authentication  
+- Microservicios  
 
-<br/>
+### 🌐 Frontend
+- Vue 3 (Composition API)  
+- Vuetify  
+- Tailwind CSS (aprendiendo)  
+- Axios / Fetch API  
+
+### ⚙️ Herramientas
+- Git / GitHub / Bitbucket  
+- Jira (gestión de tareas y proyectos)  
+- Herd / Laravel Valet  
+- VS Code  
+- Postman / Insomnia
+- Node.js / NPM  
 
 ---
 
-<br/>
-
-  <h2 align="center"> Github Statistics 📈 </h2>
-  
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bgstatic&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&theme=react&line_height=40&hide=css"/>
-    </a>
-</div
-
-<br/>
+## 📈 Actualmente
+🔹 Mejorando mi nivel de inglés.  
+🔹 Construyendo mi **portafolio personal en Netlify**.  
+🔹 Buscando nuevas oportunidades laborales y retos profesionales.  
 
 ---
 
-### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ### 
+## 📫 Contáctame
+📧 **Correo:** [luisf.rubio1997@gmail.com](luisf.rubio1997@gmail.com)  
+<!-- 💼 **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
+🌐 **Portafolio:** [tuportafolio.netlify.app](https://tuportafolio.netlify.app)   -->
 
 ---
 
-[website]: http://bilgehangecici.site/
-[instagram]: https://www.instagram.com/bilgehangecici
-[linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
-[Spotify]: https://open.spotify.com/user/11153360645
-
-
-----
-Credit: [Bgstatic](https://github.com/Bgstatic)
-
-Last Edited on: 23/09/2020
+> _“El código limpio siempre gana.”_  
+> — Luis Rubio 🧑‍💻
